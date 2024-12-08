@@ -15,14 +15,14 @@
 
 ---
 
-## 🛠️ **Work Experience**
+## 🛠 **Work Experience**
 
 ### **Cyber Security Consultant**  
 **Deloitte**  
 - Designed and integrated internal UAR systems for the world’s 11th largest e-commerce company, reducing maintenance costs by 80%.  
 - Conducted K-ISMS testing, identifying high-risk database items and establishing robust security systems, saving $100K.  
 - Improved audit readiness by 20% and reduced security incidents by 15% for a global cloud computing company.  
-**Technologies:** Jenkins, Excel, AWS  
+**Technologies:** Jenkins, Excel, AWS, 
 
 ---
 
@@ -30,14 +30,14 @@
 **NEST**  
 - Developed a real estate transaction platform using **Flutter/React Native**, improving consumer satisfaction by 70%.  
 - Integrated advanced AI and blockchain-based smart contracts to enhance PropTech innovations.  
-
+**Technologies:** Flutter, Node.js, Next.js, AWS 
 ---
 
 ### **AI Engineer**  
 **LG AI Research**  
 - Implemented AI-driven solutions to improve manufacturing efficiency by 89% and operational performance by 75%.  
 - Utilized **XGBoost, LGBM, TabNet, LSTM** to enhance predictive models, achieving significant dimensionality reduction and efficiency gains.  
-
+**Technologies:** NLP, Pandas, Anaconda 
 ---
 
 ### **Game Developer**  
@@ -72,7 +72,6 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
   <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" /></a>
