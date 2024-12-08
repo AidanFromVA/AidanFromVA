@@ -1,16 +1,85 @@
 ## About Me
 
-<h1 align="center">Hi, I'm Aidan Lee</h1>
-<h3 align="center">Want to be Software Engineer(ESP: APP, WEB)</h3>
+<h1 align="center">Hi, I'm Aidan Lee 👋</h1>
+<h3 align="center">Aspiring Software Engineer (Specializing in App & Web Development)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidanfromva&label=Profile%20views&color=0e75b6&style=flat" alt="aidanfromva" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aidanfromva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidanfromva" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=aidanfromva&label=Profile%20views&color=0e75b6&style=flat" alt="aidanfromva" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidanfromva&" alt="aidanfromva" /></p>
+## 🎓 **Education**
+- **Computer Science Student** at [Virginia Tech](https://www.vt.edu), pursuing a Bachelor's degree with a minor in HCI(Human-Computer Interaction) and Math.  
+- Passionate about **making apps and delivering impactful solutions.**
+
+---
+
+## 🛠️ **Work Experience**
+
+### **Cyber Security Consultant**  
+**Deloitte**  
+- Designed and integrated internal UAR systems for the world’s 11th largest e-commerce company, reducing maintenance costs by 80%.  
+- Conducted K-ISMS testing, identifying high-risk database items and establishing robust security systems, saving $100K.  
+- Improved audit readiness by 20% and reduced security incidents by 15% for a global cloud computing company.  
+**Technologies:** Jenkins, Excel, AWS  
+
+---
+
+### **Software Engineer**  
+**NEST**  
+- Developed a real estate transaction platform using **Flutter/React Native**, improving consumer satisfaction by 70%.  
+- Integrated advanced AI and blockchain-based smart contracts to enhance PropTech innovations.  
+
+---
+
+### **AI Engineer**  
+**LG AI Research**  
+- Implemented AI-driven solutions to improve manufacturing efficiency by 89% and operational performance by 75%.  
+- Utilized **XGBoost, LGBM, TabNet, LSTM** to enhance predictive models, achieving significant dimensionality reduction and efficiency gains.  
+
+---
+
+### **Game Developer**  
+**Ubisam**  
+- Led a 6-member team to create two Unity-based educational games for preschoolers, focusing on language and cognitive skill development.  
+- Implemented agile methodologies for project management, delivering age-appropriate and user-friendly designs.  
+- Designed, programmed, and tested prototypes, ensuring high performance and alignment with educational objectives.  
+**Technologies:** Unity Framework, C#  
+
+---
+
+### **Undergraduate Research Assistant**  
+**Echo Lab, Virginia Tech**  
+- Investigated the impact of group size and interaction methods on user experience in co-located mixed reality (MR).  
+- Expanded VR research scope by 17%, focusing on cognitive load and user satisfaction in mobile-based VR games.  
+
+**IDEEAS Lab, Virginia Tech**  
+- Automated the analysis of think-aloud data, improving research efficiency by 40%.  
+- Explored generative AI for audio-to-text conversion using pre-trained models and prompt engineering.  
+
+---
+
+## 🚀 **Projects**
+*(Details coming soon!)*
+
+---
+
+## 🛠️ **Languages and Tools**
+<p align="left">
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" /></a>
+</p>
+
+---
+
+## 📬 **Get in Touch**
+- **Email**: [byungkwon@vt.edu](mailto:byungkwon@vt.edu), [dlqudrnjs80@gmail.com](mailto:dlqudrnjs80@gmail.com)  
+- **LinkedIn**: [Connect with me](https://linkedin.com/in/aidanfromva)
