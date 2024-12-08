@@ -60,6 +60,14 @@
 
 ---
 
+## 📜 **Licenses & Certifications**
+- **Tech Savvy Generative AI Jumpstart**  
+  Published by Deloitte  
+- **Deloitte AI Academy™ | AI Fluency Assessment**  
+  Published by Deloitte  
+- **Information Security E-learning Modules**  
+  Completed at Deloitte  
+
 ## 🚀 **Projects**
 *(Details coming soon!)*
 
